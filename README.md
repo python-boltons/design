@@ -1,3 +1,3 @@
-# python-boltons (AKA "big boltons") Design Repository
+# python-boltons | Design Repository
 
 Some fake sentence here...
